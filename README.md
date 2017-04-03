@@ -13,6 +13,11 @@ About Project:
  -------------------------------
  $ pip install -r requirements.txt
 
+ How to get the secrets
+ ------------------------------
+ # todo
+
 
  Runing test cases:
  ------------------
+ # todo

@@ -1,3 +1,5 @@
+# XLRead class for reading data from the excel file
+
 from xlrd import *
 from utils import *
 

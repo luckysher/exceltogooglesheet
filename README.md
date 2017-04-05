@@ -29,6 +29,10 @@ How to get the client ID, secrets
  - Move this file to your working directory and rename it client_secret.json.
 
 
-Runing test cases:
+Running test cases:
  ------------------
- # todo
+ -All the test cases provided under the dir tests/ and also have the
+  scripts for running the various test cases
+ - For running the test case go to the main folder and then type "$ ./tests/testScriptName.sh"
+
+  like: $ ./tests/testReadDataFromXlFile.sh

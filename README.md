@@ -2,17 +2,17 @@
 ##             EXCEL TO GOOGLE SHEET                 ##
 #######################################################
 
--About Project:
+About Project:
 --------------
  The 'EXCEL TO GOOGLE SHEET' is python application that for writing the excel sheets data to the google spread sheets.
  This application uses the 'Google spread sheet API', python 'xlrd' package for reading the data from the simple excel
  files and write/read data from/to google sheets.
 
-- setting up project requirements:
+Setting up project requirements:
  -------------------------------
  $ pip install -r requirements.txt
 
-- How to get the client ID, secrets
+How to get the client ID, secrets
  ------------------------------
  Go to link:
  - https://console.developers.google.com/flows/enableapi?apiid=sheets.googleapis.com
@@ -29,6 +29,6 @@
  - Move this file to your working directory and rename it client_secret.json.
 
 
-- Runing test cases:
+Runing test cases:
  ------------------
  # todo

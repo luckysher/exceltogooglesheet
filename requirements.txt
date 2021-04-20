@@ -3,7 +3,7 @@ google-api-python-client==1.6.2
 httplib2==0.10.3
 oauth2client==1.5.2
 packaging==16.8
-py==1.4.33
+py==1.10.0
 pyasn1==0.2.3
 pyasn1-modules==0.0.8
 pyparsing==2.2.0
